@@ -1,0 +1,57 @@
+.navbar {
+background:#3BAFDA;
+border-bottom:4px solid #4FC1E9;
+}
+.navbar a {
+color:#F5F7FA;
+}
+input:focus{
+	box-shadow:0px 0px 0px white !important;
+	border:1px solid silver !important;
+}
+.checkbox{
+	margin:5px 10px;
+}
+.listfilm{	
+	margin-top:4%;
+	border-top:2px solid #4FC1E9;
+	display:none;
+}
+.info{
+	border-top:4px solid rgba(0,0,0,0.05);
+	padding:10px 25px;
+	display:none;
+}
+.img-box img{
+	width:100%;
+}
+#loading{
+	display:none;
+}
+.menucol a{
+	display:none;
+} 
+.menucol{
+	text-align:right;
+	margin:10px;
+	display:none;
+}
+.search-box{
+	display:none;
+
+}
+
+.footer p a{
+	color:#434A54;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  border-top:4px solid #E6E9ED;
+  background-color: #F5F7FA;
+  padding:15px 0px !important;
+  
+}
+
